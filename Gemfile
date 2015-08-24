@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.2.1'
 
+gem "mini_magick"
 gem 'figaro','~> 0.7'
 gem "fog"
 gem 'carrierwave'
